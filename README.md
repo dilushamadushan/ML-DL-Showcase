@@ -16,8 +16,10 @@ ML-DL-Showcase/
 │   ├── wtp.py
 │   ├── tips.csv
 │   └── README.md
-├── Project_02/
-├── ...
+├── Project_02_Future_Sales_Prediction/
+│   ├── psp.py
+│   ├── advertising.csv
+│   └── README.md
 ├── requirements.txt
 └── README.md ← This file
 ```
@@ -38,7 +40,7 @@ cd Project_01_Waiter_Tips
 ### 🔹 3. Install Dependencies
 You can install all the necessary packages using:
 ```bash
-pip install -r requirements.txt
+pip install -r ../../requirements.txt
 ```
 Alternatively, install project-specific dependencies using the requirements.txt inside each project folder (if available).
 
@@ -52,5 +54,6 @@ python wtp.py
 | # | Project Title | Type |
 |---|---------------|------|
 | 01 | [Waiter Tips Prediction](./Project_01_Waiter_Tips) | Machine Learning |
+| 02 | [Future Sales Prediction](./Project_02_Future_Sales_Prediction) | Machine Learning |
 
 ✅ Each project will be added and linked as it's completed.
