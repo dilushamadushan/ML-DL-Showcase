@@ -12,14 +12,9 @@ Each project is beginner-friendly and includes:
 
 ```
 ML-DL-Showcase/
-├── Project_01_Waiter_Tips/
-│   ├── wtp.py
-│   ├── tips.csv
-│   └── README.md
-├── Project_02_Future_Sales_Prediction/
-│   ├── psp.py
-│   ├── advertising.csv
-│   └── README.md
+├── 01_Waiter_Tips/
+├── 02_Future_Sales_Prediction/
+├── 03_Cryptocurrency_Price_Prediction
 ├── requirements.txt
 └── README.md ← This file
 ```
