@@ -35,7 +35,7 @@ cd Project_01_Waiter_Tips
 ### 🔹 3. Install Dependencies
 You can install all the necessary packages using:
 ```bash
-pip install -r ../../requirements.txt
+pip install -r ../requirements.txt
 ```
 Alternatively, install project-specific dependencies using the requirements.txt inside each project folder (if available).
 
